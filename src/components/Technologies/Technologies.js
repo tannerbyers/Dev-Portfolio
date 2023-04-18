@@ -20,15 +20,19 @@ const Technologies = () => (
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
       <br />
-      Front-End: HTML, CSS, Sass, Bootstrap, JavaScript, React, React Hooks,
-      React Router, Styled Components, Next.js, TypeScript
+      Front-End: <br />
+      Essentials: HTML5, CSS3, Javascript (ES6) <br />
+      Styling: Sass, Bootstrap, Tailwind, Styled-Components <br />
+      Libaries: React, React Hooks, React Router, Next.js, TypeScript
       <br />
       <br />
-      Back-End: NodeJs, Python, Java, MySQL
+      Back-End: Node.js, Express.js, Python, Java
       <br />
       <br />
-      Cloud: AWS Lambda, AWS API Gateway, AWS EC2, AWS Amplify, AWS S3, AWS CDK
-      & SDK
+      Data: My SQL, Postgre SQL, MongoDB, DynamoDB, Redis
+      <br />
+      <br />
+      Cloud: AWS Lambda, AWS API Gateway, AWS EC2, AWS Amplify, AWS CDK & SDK
     </SectionText>
     <SectionDivider colorAlt />
   </Section>
